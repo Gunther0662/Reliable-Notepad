@@ -6,16 +6,19 @@
 
 ## Usage
 
-GitHub:  
+GitHub: https://github.com/Gunther0662/Reliable-Notepad
 
 ## Credits
 
+N/A 
+
 ## License
 
+    The License which this application follows is MIT License. [https://choosealicense.com/](https://choosealicense.com/). 
 ## Badges
+
+N/A
 
 ## Features
 
-## How to Contribute
-
-## Test
+N/A
